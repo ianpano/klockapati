@@ -1,0 +1,14 @@
+F:\ian\Projects\KlockapatI\KlockapatiAPI\bin\Debug\netcoreapp2.1\KlockapatiAPI.deps.json
+F:\ian\Projects\KlockapatI\KlockapatiAPI\bin\Debug\netcoreapp2.1\KlockapatiAPI.runtimeconfig.json
+F:\ian\Projects\KlockapatI\KlockapatiAPI\bin\Debug\netcoreapp2.1\KlockapatiAPI.runtimeconfig.dev.json
+F:\ian\Projects\KlockapatI\KlockapatiAPI\bin\Debug\netcoreapp2.1\KlockapatiAPI.dll
+F:\ian\Projects\KlockapatI\KlockapatiAPI\bin\Debug\netcoreapp2.1\KlockapatiAPI.pdb
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.csprojAssemblyReference.cache
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.csproj.CoreCompileInputs.cache
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.RazorAssemblyInfo.cache
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.RazorAssemblyInfo.cs
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.AssemblyInfoInputs.cache
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.AssemblyInfo.cs
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.RazorTargetAssemblyInfo.cache
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.dll
+F:\ian\Projects\KlockapatI\KlockapatiAPI\obj\Debug\netcoreapp2.1\KlockapatiAPI.pdb
